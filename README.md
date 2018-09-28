@@ -24,7 +24,7 @@
       <li>CryptoLock (and Drop It) Stopping Ransomware Attacks on User Data</li>
       <a href="https://ieeexplore.ieee.org/document/7536529/">Paper link</a>
       <li>Securing Embedded User Interfaces Android and Beyond</li>
-      <a https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_roesner.pdf>Paper link</a>
+      <a href="https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_roesner.pdf">Paper link</a>
     </ul>
   </body>
 </html>
