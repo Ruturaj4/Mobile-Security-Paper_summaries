@@ -6,7 +6,7 @@
   
   <body>
   <p>The summary includes - Abstract, contribution, strengths, weaknesses and future work.</p>
-    <ul>
+    <ol>
       <li>Understanding Android Security</li>
       <a href="https://courses.cs.washington.edu/courses/cse484/14au/reading/android.pdf">Paper link</a>
       <li>Android Permissions Demystified</li>
@@ -31,6 +31,6 @@
       <a href="https://crypto.stanford.edu/adnostic/adnostic.pdf">Paper link</a>
       <li>Controlling UAVs with Sensor Input Spoofing Attacks</li>
       <a href="https://www.usenix.org/system/files/conference/woot16/woot16-paper-davidson.pdf">Paper Link</a>
-    </ul>
+    </ol>
   </body>
 </html>
