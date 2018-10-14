@@ -29,6 +29,8 @@
       <a href="http://iisp.gatech.edu/sites/default/files/documents/ieee_sp17_cloak_and_dagger_final.pdf">Paper link</a>
       <li>Adnostic: Privacy Preserving Targeted Advertising</li>
       <a href="https://crypto.stanford.edu/adnostic/adnostic.pdf">Paper link</a>
+      <li>Controlling UAVs with Sensor Input Spoofing Attacks</li>
+      <a href="https://www.usenix.org/system/files/conference/woot16/woot16-paper-davidson.pdf">Paper Link</a>
     </ul>
   </body>
 </html>
