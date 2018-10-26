@@ -33,6 +33,8 @@
       <a href="https://www.usenix.org/system/files/conference/woot16/woot16-paper-davidson.pdf">Paper Link</a>
       <li>Remote Attacks on Automated Vehicles Sensors Experiments on Camera and LiDAR</li>
       <a href="https://pdfs.semanticscholar.org/e06f/ef73f5bad0489bb033f490d41a046f61878a.pdf">Paper Link</a>
+      <li>How Unique Is Your Web Browser?</li>
+      <a href="https://panopticlick.eff.org/static/browser-uniqueness.pdf">Paper Link</a>
     </ol>
   </body>
 </html>
