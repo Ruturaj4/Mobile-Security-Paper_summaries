@@ -37,6 +37,8 @@
       <a href="https://panopticlick.eff.org/static/browser-uniqueness.pdf">Paper Link</a>
       <li>Using Program Analysis to Synthesize Sensor Spoofing Attacks</li>
       <a href="https://www.cs.cornell.edu/~shmat/shmat_asiaccs17.pdf">Papar link</a>
+      <li>Using Program Analysis to Synthesize Sensor Spoofing Attacks</li>
+      <a href="https://www.cs.cornell.edu/~shmat/shmat_asiaccs17.pdf">Papar link</a>
     </ol>
   </body>
 </html>
