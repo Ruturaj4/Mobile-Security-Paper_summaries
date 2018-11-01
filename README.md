@@ -5,7 +5,7 @@
   </header>
   
   <body>
-  <p>Please fork to contribute 🍴</p>
+  <p>Pull requests are gladly accepted!</p>
   <p>The summary includes - Abstract, contribution, strengths, weaknesses and future work.</p>
     <ol>
       <li>Understanding Android Security</li>
