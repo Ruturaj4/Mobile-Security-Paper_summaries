@@ -42,6 +42,8 @@
       <a href="https://arxiv.org/abs/1801.02265">Papar link</a>
       <li>The Pythia PRF Service</li>
       <a href="https://eprint.iacr.org/2015/644.pdf">Paper link</a>
+      <li>PatternListener: Cracking Android Pattern Lock Using Acoustic Signals</li>
+      <a href="https://arxiv.org/pdf/1810.02242.pdf">Paper link</a>
     </ol>
   </body>
 </html>
